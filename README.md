@@ -19,7 +19,7 @@ Welcome to **Only Movies** — your go-to web app to explore and discover movies
 ## 🛠 Tech Stack
 
 - **Frontend:** ReactJS
-- **Styling:** CSS / Tailwind (if used)
+- **Styling:** CSS
 - **API:** [TMDB - The Movie Database](https://www.themoviedb.org/documentation/api)
 - **Deployment:** Vercel
 
