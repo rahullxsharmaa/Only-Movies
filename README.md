@@ -52,3 +52,5 @@ REACT_APP_TMDB_API_KEY=your_api_key_here
 
 # 5. Start the development server
 npm start
+```
+# Made with ❤️ by Rahul Sharma
