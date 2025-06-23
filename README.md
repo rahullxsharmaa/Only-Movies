@@ -27,12 +27,10 @@ Welcome to **Only Movies** — your go-to web app to explore and discover movies
 
 ## 📸 Screenshots
 
-> *You can add screenshots here if you want. Example:*
+![image](https://github.com/user-attachments/assets/718f4c7d-4b27-4d45-8024-7dfb32f4d507)
 
-![Homepage Screenshot](![image](https://github.com/user-attachments/assets/60e0861c-76f2-4355-ba2b-0bd0a838dc4b)
-)
-![Search Results Screenshot](![image](https://github.com/user-attachments/assets/03059150-c083-4984-8f31-80e265577588)
-)
+![image](https://github.com/user-attachments/assets/4d0cfa03-1f32-4223-a11c-34afa2837606)
+
 
 ---
 
